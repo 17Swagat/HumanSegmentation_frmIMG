@@ -8,3 +8,4 @@ files/*.keras
 *.zip
 test/
 *.txt
+__pycache__/
