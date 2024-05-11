@@ -1,1 +1,10 @@
 envx/
+*.zip
+people_segmentation/
+BodyPix_FAILED/
+*.h5
+download/
+files/*.keras
+*.zip
+test/
+*.txt
