@@ -1,5 +1,5 @@
 from tensorflow.keras.layers import Conv2D, BatchNormalization, Activation, UpSampling2D, Concatenate, Input
-from tensorflow.keras.models import Model
+from tensorflow.keras.models import Model # type: ignore
 from tensorflow.keras.applications import ResNet50
 
 # from tensorflow.keras.utils import plot_model
