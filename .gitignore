@@ -9,3 +9,6 @@ files/*.keras
 test/
 *.txt
 __pycache__/
+
+# specificFiles:
+rough/
