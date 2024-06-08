@@ -11,5 +11,5 @@ test/
 __pycache__/
 
 # specificFiles:
-rough/
 NOTES.txt
+rough/

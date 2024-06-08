@@ -1,3 +1,0 @@
-* [BodyPix]: FAILED : {Nicolas...}
-
-* [Background Removal using Deep Learning in TensorFlow - Semantic Segmentation]: https://youtu.be/EF29Kc1-DtI
